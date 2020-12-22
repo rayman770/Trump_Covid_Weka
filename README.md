@@ -21,31 +21,29 @@
       - Yes or No
       
   - In addition to the questions, the dataset also contains background information of participants. The attributes are described as below:
-  1. id=participant’sid
-  2. xspanish=participant’slanguage(eitherEnglishorSpanish)
-3. complete_status=indicatingwhetherparticipantsfullycompletedthesurvey
-4. ppage=ageofparticipants
-5. ppeduc=educationofparticipants(fromthe1stgradetodoctoratedegree)
-6. ppeducat=educationlevelsofparticipants(lessthanhighschool,highschool,
-some college, bachelor’s degree or higher)
-7. ppgender=Genderoftheparticipant(Male/Female)
-8. ppethm=Raceoftheparticipant
-9. pphhsize=householdsizeofparticipants
-10.pphouse = a brief description of house of participants
-11.ppincimp = participant’s income
-12.ppmarit = marital status of participants
-13.ppmsacat = indicating whether participants live in metro area or non-metro area 14.ppreg4 = region of participants
-15.pprent = participants house rent
-16.ppstaten = state where participants live
-17. Q1
-18. Q2
-19. Q3
-20. Q4
-21. Q5a
-22. Q5b
-23.QPID = political party that participants support
-24.POLIT200 = indicating whether participants are registered to vote at their current
-address
-25.ABCAGE = The participants age range
-26.Weights_pid = The study dataset(s) contain weight factors that should be
-employed in any data analysis. Typically, weights are used in an attempt to assure that the survey sample more accurately represents the population.
+  1. id = participant’sid
+  2. xspanish = participant’slanguage(either English or Spanish)
+  3. complete_status = indicating whether participants fully completed the survey
+  4. ppage = age of participants
+  5. ppeduc = education of participants (from the 1st grade to doctorate degree)
+  6. ppeducat = education levels of participants (less than high school, high school, some college, bachelor’s degree or higher)
+  7. ppgender = Gender of the participant (Male / Female)
+  8. ppethm = Race of the participant
+  9. pphhsize = household size of participants
+  10. pphouse = a brief description of house of participants
+  11. ppincimp = participant’s income
+  12. ppmarit = marital status of participants
+  13. ppmsacat = indicating whether participants live in metro area or non-metro area 
+  14. ppreg4 = region of participants
+  15. pprent = participants house rent
+  16. ppstaten = state where participants live
+  17. Q1
+  18. Q2 
+  19. Q3
+  20. Q4
+  21. Q5a
+  22. Q5b
+  23. QPID = political party that participants support
+  24. POLIT200 = indicating whether participants are registered to vote at their current address
+  25. ABCAGE = The participants age range
+  26. Weights_pid = The study dataset(s) contain weight factors that should be employed in any data analysis. Typically, weights are used in an attempt to assure that the survey sample more accurately represents the population.

@@ -47,3 +47,16 @@
   24. POLIT200 = indicating whether participants are registered to vote at their current address
   25. ABCAGE = The participants age range
   26. Weights_pid = The study dataset(s) contain weight factors that should be employed in any data analysis. Typically, weights are used in an attempt to assure that the survey sample more accurately represents the population.
+  
+
+- **Table of Content**
+  - Statement of Data Mining Goal
+  - Detailed Description of the Dataset
+  - Attribute Selection and Algorithms for the Project
+  - Data Mining Procedure
+    - Preprocessing
+    - Splitting Dataset
+	  - Attribute Selection Method
+  - Data Mining Result and Evaluation
+    - Performance Comparison
+  - Discussion and Conclusion

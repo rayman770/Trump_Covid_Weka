@@ -21,8 +21,8 @@
       - Yes or No
       
   - In addition to the questions, the dataset also contains background information of participants. The attributes are described as below:
-    1. id=participant’sid
-    2. xspanish=participant’slanguage(eitherEnglishorSpanish)
+  1. id=participant’sid
+  2. xspanish=participant’slanguage(eitherEnglishorSpanish)
 3. complete_status=indicatingwhetherparticipantsfullycompletedthesurvey
 4. ppage=ageofparticipants
 5. ppeduc=educationofparticipants(fromthe1stgradetodoctoratedegree)
